@@ -1,2 +1,1 @@
-# pushu-tsuchi
-「ﾌﾟｼｭ🍺」
+# mogami
